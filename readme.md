@@ -4,7 +4,6 @@
 
 
 <a href="https://www.linkedin.com/in/rishavkumar-/" target="_blank"><img align="left" alt="Rishav K | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://www.codechef.com/users/well_known01" target="_blank"><img align="left" alt="Rishav  | CodeChef" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/codechef.svg" />
 <a href="https://github.com/Rishav-code-bit" target="_blank"><img align="left" alt="dev to aakarsh" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
 
 <br />
