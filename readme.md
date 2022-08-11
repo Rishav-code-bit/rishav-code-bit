@@ -4,7 +4,7 @@
 
 
 <a href="https://www.linkedin.com/in/rishavkumar-/" target="_blank"><img align="left" alt="Rishav K | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://github.com/Rishav-code-bit" target="_blank"><img align="left" alt="dev to aakarsh" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
+<a href="https://github.com/Rishav-code-bit" target="_blank"><img align="left" alt="dev to rishav" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
 
 <br />
 <br />
@@ -55,5 +55,5 @@
 <br/>
 ---
 
-[![Aakarsh's github stats](https://github-readme-stats.vercel.app/api?username=Aakarsh-B&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+[![Rishav's github stats](https://github-readme-stats.vercel.app/api?username=Aakarsh-B&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
