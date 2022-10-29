@@ -2,6 +2,7 @@
 ## Heyyo, I'm <a href="https://aakarsh.me" target="_blank">Rishav</a>!
 (Use dark theme to find my socials ;)
 
+<h2> About Me <img align="right" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
 <a href="https://www.linkedin.com/in/rishavkumar-/" target="_blank"><img align="left" alt="Rishav K | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 <a href="https://github.com/Rishav-code-bit" target="_blank"><img align="left" alt="dev to rishav" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
